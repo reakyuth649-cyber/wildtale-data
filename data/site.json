@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T09:31:16.718Z",
+  "updatedAt": "2026-11-22T09:46:08.328Z",
   "siteContent": {
     "adsEnabled": true,
     "globalAdsKeeperSiteId": "",
@@ -7,6 +7,26 @@
     "announcementText": ""
   },
   "sponsorAds": [
+    {
+      "id": "ad_1795340767916_ie99p3",
+      "adType": "adskeeper",
+      "title": "AdsKeeper Native Widget #2129550",
+      "sponsorName": "AdsKeeper",
+      "description": "Native content recommendations served by adskeeper.com.",
+      "ctaText": "Sponsored",
+      "targetUrl": "https://www.adskeeper.com",
+      "imageUrl": "",
+      "adskeeperSiteId": "1121737",
+      "adskeeperWidgetId": "2129550",
+      "adskeeperScriptUrl": "https://jsc.adskeeper.com/site/1121737.js",
+      "placement": "story_inline_2",
+      "pageTarget": "story_only",
+      "status": "active",
+      "priority": 100,
+      "createdBy": "lRmR18Fn5MQWSxfa9RpPoO3FZ082",
+      "createdAtMs": 1795340768328,
+      "updatedAtMs": 1795340768328
+    },
     {
       "id": "ad_1795253476262_rcidoy",
       "adType": "adskeeper",
@@ -24,8 +44,8 @@
       "status": "active",
       "priority": 100,
       "createdBy": "lRmR18Fn5MQWSxfa9RpPoO3FZ082",
-      "createdAtMs": 1795253476717,
-      "updatedAtMs": 1795253476717
+      "createdAtMs": 1795253476629,
+      "updatedAtMs": 1795253476629
     },
     {
       "id": "ad_1795155319676_0slnu0",
@@ -116,8 +136,14 @@
     {
       "id": "story_inline",
       "label": "Article Inline Callout",
-      "dimensionsHint": "Mid-article reading column",
-      "description": "Appears inside individual story articles between narrative paragraphs."
+      "dimensionsHint": "Mid-article reading column (~25%)",
+      "description": "First in-article slot (~25% through stories with 10+ blocks), placed strictly between paragraphs."
+    },
+    {
+      "id": "story_inline_2",
+      "label": "Article Inline Callout 2",
+      "dimensionsHint": "Mid-article reading column (~60%)",
+      "description": "Second in-article slot (~60% through stories with 20+ blocks). Assign a separate AdsKeeper widget ID."
     },
     {
       "id": "story_below",
