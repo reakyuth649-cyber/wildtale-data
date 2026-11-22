@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T10:30:05.781Z",
+  "updatedAt": "2026-11-22T10:30:52.285Z",
   "siteContent": {
     "adsEnabled": true,
     "globalAdsKeeperSiteId": "",
@@ -7,6 +7,26 @@
     "announcementText": ""
   },
   "sponsorAds": [
+    {
+      "id": "ad_1795155319676_0slnu0",
+      "adType": "adskeeper",
+      "title": "AdsKeeper Native Widget #2127491",
+      "sponsorName": "AdsKeeper",
+      "description": "Native content recommendations served by adskeeper.com.",
+      "ctaText": "Sponsored",
+      "targetUrl": "https://www.adskeeper.com",
+      "imageUrl": "",
+      "adskeeperSiteId": "1121737",
+      "adskeeperWidgetId": "2127491",
+      "adskeeperScriptUrl": "https://jsc.adskeeper.com/site/1121737.js",
+      "placement": "footer_banner",
+      "pageTarget": "story_only",
+      "status": "active",
+      "priority": 100,
+      "createdBy": "lRmR18Fn5MQWSxfa9RpPoO3FZ082",
+      "createdAtMs": 1795155321758,
+      "updatedAtMs": 1795343452285
+    },
     {
       "id": "ad_1795014780473_6qut4y",
       "adType": "adskeeper",
@@ -25,7 +45,7 @@
       "priority": 100,
       "createdBy": "lRmR18Fn5MQWSxfa9RpPoO3FZ082",
       "createdAtMs": 1795014781601,
-      "updatedAtMs": 1795343405781
+      "updatedAtMs": 1795343405642
     },
     {
       "id": "ad_1795340767916_ie99p3",
@@ -66,26 +86,6 @@
       "createdBy": "lRmR18Fn5MQWSxfa9RpPoO3FZ082",
       "createdAtMs": 1795253476629,
       "updatedAtMs": 1795253476629
-    },
-    {
-      "id": "ad_1795155319676_0slnu0",
-      "adType": "adskeeper",
-      "title": "AdsKeeper Native Widget #2127491",
-      "sponsorName": "AdsKeeper",
-      "description": "Native content recommendations served by adskeeper.com.",
-      "ctaText": "Sponsored",
-      "targetUrl": "https://www.adskeeper.com",
-      "imageUrl": "",
-      "adskeeperSiteId": "1121737",
-      "adskeeperWidgetId": "2127491",
-      "adskeeperScriptUrl": "https://jsc.adskeeper.com/site/1121737.js",
-      "placement": "story_below",
-      "pageTarget": "story_only",
-      "status": "active",
-      "priority": 100,
-      "createdBy": "lRmR18Fn5MQWSxfa9RpPoO3FZ082",
-      "createdAtMs": 1795155321758,
-      "updatedAtMs": 1795155321758
     },
     {
       "id": "ad_1795012883909_q11kyf",
