@@ -1,12 +1,33 @@
 {
-  "updatedAt": "2026-11-22T13:28:39.964Z",
+  "updatedAt": "2026-11-22T13:29:50.268Z",
   "siteContent": {
     "adsEnabled": true,
     "globalAdsKeeperSiteId": "",
     "tagline": "Real Stories About Real Lives",
     "announcementText": ""
   },
-  "sponsorAds": [],
+  "sponsorAds": [
+    {
+      "id": "ad_1795354189919_1amteu",
+      "adType": "adskeeper",
+      "title": "AdsKeeper Native Widget #2129550",
+      "sponsorName": "AdsKeeper",
+      "description": "Native content recommendations served by adskeeper.com.",
+      "ctaText": "Sponsored",
+      "targetUrl": "https://www.adskeeper.com",
+      "imageUrl": "",
+      "adskeeperSiteId": "1121737",
+      "adskeeperWidgetId": "2129550",
+      "adskeeperScriptUrl": "https://jsc.adskeeper.com/site/1121737.js",
+      "placement": "story_inline",
+      "pageTarget": "story_only",
+      "status": "active",
+      "priority": 50,
+      "createdBy": "lRmR18Fn5MQWSxfa9RpPoO3FZ082",
+      "createdAtMs": 1795354190268,
+      "updatedAtMs": 1795354190268
+    }
+  ],
   "adPlacements": [
     {
       "id": "header_leaderboard",
