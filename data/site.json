@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T13:37:41.980Z",
+  "updatedAt": "2026-11-22T13:43:16.932Z",
   "siteContent": {
     "adsEnabled": true,
     "globalAdsKeeperSiteId": "1121737",
@@ -24,8 +24,8 @@
       "status": "active",
       "priority": 50,
       "createdBy": "lRmR18Fn5MQWSxfa9RpPoO3FZ082",
-      "createdAtMs": 1795354481062,
-      "updatedAtMs": 1795354481062
+      "createdAtMs": 1795354480743,
+      "updatedAtMs": 1795354480743
     },
     {
       "id": "ad_1795354422461_pbra3v",
@@ -44,28 +44,8 @@
       "status": "active",
       "priority": 50,
       "createdBy": "lRmR18Fn5MQWSxfa9RpPoO3FZ082",
-      "createdAtMs": 1795354422805,
-      "updatedAtMs": 1795354422805
-    },
-    {
-      "id": "ad_1795354332313_j2xz2y",
-      "adType": "adskeeper",
-      "title": "AdsKeeper Native Widget #2127491",
-      "sponsorName": "AdsKeeper",
-      "description": "Native content recommendations served by adskeeper.com.",
-      "ctaText": "Sponsored",
-      "targetUrl": "https://www.adskeeper.com",
-      "imageUrl": "",
-      "adskeeperSiteId": "1121737",
-      "adskeeperWidgetId": "2127491",
-      "adskeeperScriptUrl": "https://jsc.adskeeper.com/site/1121737.js",
-      "placement": "story_below",
-      "pageTarget": "story_only",
-      "status": "active",
-      "priority": 50,
-      "createdBy": "lRmR18Fn5MQWSxfa9RpPoO3FZ082",
-      "createdAtMs": 1795354332436,
-      "updatedAtMs": 1795354332436
+      "createdAtMs": 1795354422488,
+      "updatedAtMs": 1795354422488
     },
     {
       "id": "ad_1795354299684_7y4w39",
@@ -84,8 +64,8 @@
       "status": "active",
       "priority": 50,
       "createdBy": "lRmR18Fn5MQWSxfa9RpPoO3FZ082",
-      "createdAtMs": 1795354299939,
-      "updatedAtMs": 1795354299939
+      "createdAtMs": 1795354299619,
+      "updatedAtMs": 1795354299619
     },
     {
       "id": "ad_1795354228890_zqrss1",
@@ -104,8 +84,8 @@
       "status": "active",
       "priority": 50,
       "createdBy": "lRmR18Fn5MQWSxfa9RpPoO3FZ082",
-      "createdAtMs": 1795354229021,
-      "updatedAtMs": 1795354229021
+      "createdAtMs": 1795354228707,
+      "updatedAtMs": 1795354228707
     },
     {
       "id": "ad_1795354189919_1amteu",
@@ -124,8 +104,8 @@
       "status": "active",
       "priority": 50,
       "createdBy": "lRmR18Fn5MQWSxfa9RpPoO3FZ082",
-      "createdAtMs": 1795354190268,
-      "updatedAtMs": 1795354190268
+      "createdAtMs": 1795354189966,
+      "updatedAtMs": 1795354189966
     }
   ],
   "adPlacements": [
