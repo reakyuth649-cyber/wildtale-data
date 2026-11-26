@@ -1,12 +1,36 @@
 {
-  "updatedAt": "2026-11-22T19:17:10.388Z",
+  "updatedAt": "2026-11-26T10:04:03.748Z",
   "siteContent": {
     "adsEnabled": true,
     "globalAdsKeeperSiteId": "1121737",
     "tagline": "Real Stories About Real Lives",
-    "announcementText": ""
+    "announcementText": "",
+    "whosAmungUsEnabled": true,
+    "whosAmungUsSiteKey": "wtdaily2026",
+    "whosAmungUsStyle": "dynamic",
+    "whosAmungUsColor": "e74c3cffffff"
   },
   "sponsorAds": [
+    {
+      "id": "ad_1795687443442_b4fswl",
+      "adType": "adskeeper",
+      "title": "AdsKeeper Native Widget #2134676",
+      "sponsorName": "AdsKeeper",
+      "description": "Native content recommendations served by adskeeper.com.",
+      "ctaText": "Sponsored",
+      "targetUrl": "https://www.adskeeper.com",
+      "imageUrl": "",
+      "adskeeperSiteId": "1121737",
+      "adskeeperWidgetId": "2134642",
+      "adskeeperScriptUrl": "https://jsc.adskeeper.com/site/1121737.js",
+      "placement": "ad_notification",
+      "pageTarget": "story_only",
+      "status": "active",
+      "priority": 50,
+      "createdBy": "lRmR18Fn5MQWSxfa9RpPoO3FZ082",
+      "createdAtMs": 1795687443747,
+      "updatedAtMs": 1795687443747
+    },
     {
       "id": "ad_1795356988482_93cxbc",
       "adType": "adskeeper",
@@ -25,7 +49,7 @@
       "priority": 50,
       "createdBy": "lRmR18Fn5MQWSxfa9RpPoO3FZ082",
       "createdAtMs": 1795356988495,
-      "updatedAtMs": 1795375030387
+      "updatedAtMs": 1795375029785
     },
     {
       "id": "ad_1795357086173_no06xo",
@@ -171,51 +195,108 @@
   "adPlacements": [
     {
       "id": "header_leaderboard",
+      "group": "global",
       "label": "Header Leaderboard",
       "dimensionsHint": "Full-width banner above content",
       "description": "Appears immediately below the main navigation bar across all editorial views."
     },
     {
       "id": "sidebar_top",
+      "group": "sidebar",
       "label": "Sidebar Top Spotlight",
       "dimensionsHint": "320px right column (top)",
       "description": "Featured ad or AdsKeeper sidebar widget pinned at the top of the right editorial sidebar."
     },
     {
+      "id": "sidebar_middle",
+      "group": "sidebar",
+      "label": "Sidebar Middle Widget",
+      "dimensionsHint": "320px right column (middle)",
+      "description": "Mid-sidebar placement positioned between Recent Posts and Categories."
+    },
+    {
       "id": "sidebar_bottom",
+      "group": "sidebar",
       "label": "Sidebar Bottom Widget",
       "dimensionsHint": "320px right column (bottom)",
       "description": "Secondary right-sidebar placement below Categories for AdsKeeper vertical widgets."
     },
     {
       "id": "in_feed_banner",
-      "label": "In-Feed Editorial Banner",
-      "dimensionsHint": "2-column grid span",
-      "description": "Displays between story cards inside the Home and Category article grids."
+      "group": "feed",
+      "label": "In-Feed Editorial Banner 1",
+      "dimensionsHint": "2-column grid span (after story #3)",
+      "description": "Displays inside the Home, Category, and Search grids after the first 3 story cards."
+    },
+    {
+      "id": "in_feed_banner_2",
+      "group": "feed",
+      "label": "In-Feed Editorial Banner 2",
+      "dimensionsHint": "2-column grid span (after story #7)",
+      "description": "Secondary in-feed slot appearing lower in the Home, Category, and Search grids after card 7."
+    },
+    {
+      "id": "feed_bottom",
+      "group": "feed",
+      "label": "Below Stories Feed & Pagination",
+      "dimensionsHint": "Main column bottom (Home & Archive)",
+      "description": "Full-width feed placement directly beneath the stories grid and pagination controls."
+    },
+    {
+      "id": "story_top",
+      "group": "story",
+      "label": "Above Story Content (Below Featured Image)",
+      "dimensionsHint": "Top of reading column",
+      "description": "High-visibility slot directly beneath the featured image and above the first story paragraph."
     },
     {
       "id": "story_inline",
-      "label": "Article Inline Callout",
+      "group": "story",
+      "label": "Article Inline Callout 1 (~25%)",
       "dimensionsHint": "Mid-article reading column (~25%)",
       "description": "First in-article slot (~25% through stories with 10+ blocks), placed strictly between paragraphs."
     },
     {
       "id": "story_inline_2",
-      "label": "Article Inline Callout 2",
+      "group": "story",
+      "label": "Article Inline Callout 2 (~60%)",
       "dimensionsHint": "Mid-article reading column (~60%)",
       "description": "Second in-article slot (~60% through stories with 20+ blocks). Assign a separate AdsKeeper widget ID."
     },
     {
+      "id": "story_inline_3",
+      "group": "story",
+      "label": "Article Inline Callout 3 (~80%)",
+      "dimensionsHint": "Lower-article reading column (~80%)",
+      "description": "Third in-article slot near the lower section (~80%) of longer stories with 24+ blocks."
+    },
+    {
       "id": "story_below",
+      "group": "story",
       "label": "Below Article Recommendations",
       "dimensionsHint": "Full-width grid under story",
       "description": "High-visibility zone directly beneath full articles — ideal for AdsKeeper recommendation grids."
     },
     {
       "id": "footer_banner",
+      "group": "global",
       "label": "Pre-Footer Banner",
       "dimensionsHint": "Full-width banner above footer",
       "description": "Wide placement spanning the bottom of the page just above the dark site footer."
+    },
+    {
+      "id": "sticky_bottom",
+      "group": "global",
+      "label": "Floating Bottom Sticky Bar",
+      "dimensionsHint": "Dismissible bottom anchor bar",
+      "description": "Pinned floating banner anchored at the bottom of the screen with a reader dismiss button."
+    },
+    {
+      "id": "ad_notification",
+      "group": "global",
+      "label": "Ads Notification (Corner Popup)",
+      "dimensionsHint": "360px bottom-right notification card",
+      "description": "Push-style sponsored notification popup anchored at the bottom-right corner with a dismiss button (Direct Sponsor or AdsKeeper)."
     }
   ]
 }
