@@ -1,16 +1,37 @@
 {
-  "updatedAt": "2026-11-27T02:05:09.682Z",
+  "updatedAt": "2026-11-28T08:32:20.383Z",
   "siteContent": {
     "adsEnabled": true,
     "globalAdsKeeperSiteId": "1121737",
     "tagline": "Real Stories About Real Lives",
     "announcementText": "",
+    "customCategories": [],
     "whosAmungUsEnabled": true,
     "whosAmungUsSiteKey": "wtdaily2026",
     "whosAmungUsStyle": "dynamic",
     "whosAmungUsColor": "e74c3cffffff"
   },
   "sponsorAds": [
+    {
+      "id": "ad_1795354228890_zqrss1",
+      "adType": "adskeeper",
+      "title": "AdsKeeper Native Widget #2128873",
+      "sponsorName": "AdsKeeper",
+      "description": "Native content recommendations served by adskeeper.com.",
+      "ctaText": "Sponsored",
+      "targetUrl": "https://www.adskeeper.com",
+      "imageUrl": "",
+      "adskeeperSiteId": "1121737",
+      "adskeeperWidgetId": "2128873",
+      "adskeeperScriptUrl": "https://jsc.adskeeper.com/site/1121737.js",
+      "placement": "story_inline_2",
+      "pageTarget": "story_only",
+      "status": "active",
+      "priority": 50,
+      "createdBy": "lRmR18Fn5MQWSxfa9RpPoO3FZ082",
+      "createdAtMs": 1795354228707,
+      "updatedAtMs": 1795854740383
+    },
     {
       "id": "ad_1795745109434_q6gtfw",
       "adType": "adskeeper",
@@ -28,8 +49,8 @@
       "status": "active",
       "priority": 50,
       "createdBy": "lRmR18Fn5MQWSxfa9RpPoO3FZ082",
-      "createdAtMs": 1795745109682,
-      "updatedAtMs": 1795745109682
+      "createdAtMs": 1795745110457,
+      "updatedAtMs": 1795745110457
     },
     {
       "id": "ad_1795703946022_lvd8cu",
@@ -130,26 +151,6 @@
       "createdBy": "lRmR18Fn5MQWSxfa9RpPoO3FZ082",
       "createdAtMs": 1795354299619,
       "updatedAtMs": 1795354299619
-    },
-    {
-      "id": "ad_1795354228890_zqrss1",
-      "adType": "adskeeper",
-      "title": "AdsKeeper Native Widget #2128873",
-      "sponsorName": "AdsKeeper",
-      "description": "Native content recommendations served by adskeeper.com.",
-      "ctaText": "Sponsored",
-      "targetUrl": "https://www.adskeeper.com",
-      "imageUrl": "",
-      "adskeeperSiteId": "1121737",
-      "adskeeperWidgetId": "2128873",
-      "adskeeperScriptUrl": "https://jsc.adskeeper.com/site/1121737.js",
-      "placement": "story_inline_2",
-      "pageTarget": "all",
-      "status": "active",
-      "priority": 50,
-      "createdBy": "lRmR18Fn5MQWSxfa9RpPoO3FZ082",
-      "createdAtMs": 1795354228707,
-      "updatedAtMs": 1795354228707
     },
     {
       "id": "ad_1795354189919_1amteu",
