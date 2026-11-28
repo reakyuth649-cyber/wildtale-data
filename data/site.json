@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T08:32:20.383Z",
+  "updatedAt": "2026-11-28T08:32:31.658Z",
   "siteContent": {
     "adsEnabled": true,
     "globalAdsKeeperSiteId": "1121737",
@@ -12,6 +12,26 @@
     "whosAmungUsColor": "e74c3cffffff"
   },
   "sponsorAds": [
+    {
+      "id": "ad_1795354299684_7y4w39",
+      "adType": "adskeeper",
+      "title": "AdsKeeper Native Widget #2125550",
+      "sponsorName": "AdsKeeper",
+      "description": "Native content recommendations served by adskeeper.com.",
+      "ctaText": "Sponsored",
+      "targetUrl": "https://www.adskeeper.com",
+      "imageUrl": "",
+      "adskeeperSiteId": "1121737",
+      "adskeeperWidgetId": "2125550",
+      "adskeeperScriptUrl": "https://jsc.adskeeper.com/site/1121737.js",
+      "placement": "sidebar_top",
+      "pageTarget": "story_only",
+      "status": "active",
+      "priority": 50,
+      "createdBy": "lRmR18Fn5MQWSxfa9RpPoO3FZ082",
+      "createdAtMs": 1795354299619,
+      "updatedAtMs": 1795854751658
+    },
     {
       "id": "ad_1795354228890_zqrss1",
       "adType": "adskeeper",
@@ -131,26 +151,6 @@
       "createdBy": "lRmR18Fn5MQWSxfa9RpPoO3FZ082",
       "createdAtMs": 1795354422488,
       "updatedAtMs": 1795354422488
-    },
-    {
-      "id": "ad_1795354299684_7y4w39",
-      "adType": "adskeeper",
-      "title": "AdsKeeper Native Widget #2125550",
-      "sponsorName": "AdsKeeper",
-      "description": "Native content recommendations served by adskeeper.com.",
-      "ctaText": "Sponsored",
-      "targetUrl": "https://www.adskeeper.com",
-      "imageUrl": "",
-      "adskeeperSiteId": "1121737",
-      "adskeeperWidgetId": "2125550",
-      "adskeeperScriptUrl": "https://jsc.adskeeper.com/site/1121737.js",
-      "placement": "sidebar_top",
-      "pageTarget": "all",
-      "status": "active",
-      "priority": 50,
-      "createdBy": "lRmR18Fn5MQWSxfa9RpPoO3FZ082",
-      "createdAtMs": 1795354299619,
-      "updatedAtMs": 1795354299619
     },
     {
       "id": "ad_1795354189919_1amteu",
